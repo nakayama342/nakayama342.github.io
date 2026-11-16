@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://nakayama342.github.io/</loc></url>
   <url><loc>https://nakayama342.github.io/units/</loc></url>
+  <url><loc>https://nakayama342.github.io/units/resistances/</loc></url>
+  <url><loc>https://nakayama342.github.io/start/</loc></url>
+  <url><loc>https://nakayama342.github.io/download/</loc></url>
+  <url><loc>https://nakayama342.github.io/faq/</loc></url>
+  <url><loc>https://nakayama342.github.io/boss/</loc></url>
+  <url><loc>https://nakayama342.github.io/events/</loc></url>
+  <url><loc>https://nakayama342.github.io/news/</loc></url>
+  <url><loc>https://nakayama342.github.io/videos/</loc></url>
+  <url><loc>https://nakayama342.github.io/community/</loc></url>
   <url><loc>https://nakayama342.github.io/compare/</loc></url>
   <url><loc>https://nakayama342.github.io/updates/</loc></url>
   <url><loc>https://nakayama342.github.io/about/</loc></url>
@@ -1928,4 +1937,27 @@
   <url><loc>https://nakayama342.github.io/units/283/</loc></url>
   <url><loc>https://nakayama342.github.io/units/284/</loc></url>
   <url><loc>https://nakayama342.github.io/updates/4.19.0/</loc></url>
+  <url><loc>https://nakayama342.github.io/boss/ancient-sentinel/</loc></url>
+  <url><loc>https://nakayama342.github.io/boss/ancient-construct/</loc></url>
+  <url><loc>https://nakayama342.github.io/boss/experimental-construct/</loc></url>
+  <url><loc>https://nakayama342.github.io/boss/dreadnought/</loc></url>
+  <url><loc>https://nakayama342.github.io/boss/kraken/</loc></url>
+  <url><loc>https://nakayama342.github.io/news/v4-20-0/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://nakayama342.github.io/news/imperial-broadcast-2026-11/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://nakayama342.github.io/news/v4-19-4/</loc><lastmod>2026-11-01</lastmod></url>
+  <url><loc>https://nakayama342.github.io/news/v4-19-2/</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://nakayama342.github.io/news/v4-19-1/</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://nakayama342.github.io/news/v4-19-0/</loc><lastmod>2026-10-09</lastmod></url>
+  <url><loc>https://nakayama342.github.io/news/imperial-broadcast-2026-09/</loc><lastmod>2026-09-23</lastmod></url>
+  <url><loc>https://nakayama342.github.io/news/v4-18-1/</loc><lastmod>2026-09-07</lastmod></url>
+  <url><loc>https://nakayama342.github.io/news/v4-18-0/</loc><lastmod>2026-09-04</lastmod></url>
+  <url><loc>https://nakayama342.github.io/news/pvp-update-qa/</loc><lastmod>2026-09-04</lastmod></url>
+  <url><loc>https://nakayama342.github.io/news/v4-17-9/</loc><lastmod>2026-08-22</lastmod></url>
+  <url><loc>https://nakayama342.github.io/news/v4-17-7/</loc><lastmod>2026-08-13</lastmod></url>
+  <url><loc>https://nakayama342.github.io/news/v4-17-6/</loc><lastmod>2026-08-09</lastmod></url>
+  <url><loc>https://nakayama342.github.io/news/v4-17-3/</loc><lastmod>2026-07-31</lastmod></url>
+  <url><loc>https://nakayama342.github.io/news/v4-17-2/</loc><lastmod>2026-07-24</lastmod></url>
+  <url><loc>https://nakayama342.github.io/news/v4-17-1/</loc><lastmod>2026-07-24</lastmod></url>
+  <url><loc>https://nakayama342.github.io/news/v4-17-0/</loc><lastmod>2026-07-17</lastmod></url>
+  <url><loc>https://nakayama342.github.io/news/v4-16-1/</loc><lastmod>2026-07-14</lastmod></url>
 </urlset>
